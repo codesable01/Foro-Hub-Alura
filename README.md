@@ -54,33 +54,27 @@ http://localhost:8080/swagger-ui.html
 # 📚 Documentación de la API
 🔑 Autenticación
 ```
-Endpoint: /api/auth/login
-Método: POST
-Request Body:
-json
-Copy
-Edit
 {
   "username": "admin",
   "password": "admin123"
 }
-Response:
-json
-Copy
-Edit
+
 ```
-```{
+```
+{
   "token": "eyJhbGciOiJIUzI1NiIsInR..."
 }
+
 ```
+
 👤 Usuarios
 Crear Usuario:
 bash
-Copy
-Edit
+```
 curl -X POST http://localhost:8080/api/usuarios/register \
 -H "Content-Type: application/json" \
 -d '{"login": "ozona.carro", "clave": "password123"}'
+```
 Obtener Usuarios: GET /api/usuarios
 Actualizar Usuario: PUT /api/usuarios/{id}
 Eliminar Usuario: DELETE /api/usuarios/{id}
@@ -118,12 +112,12 @@ Crea una nueva rama:
 bash
 Copy
 Edit
-git checkout -b feature/nueva-funcion
+```git checkout -b feature/nueva-funcion```
 Realiza tus cambios y haz un commit:
 bash
 Copy
 Edit
-git commit -m "Agrega nueva función"
+```git commit -m "Agrega nueva función"```
 Envía un pull request.
 # 📞 Contacto
 ¿Tienes preguntas? Puedes contactarnos en:
