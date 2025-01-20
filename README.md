@@ -35,22 +35,16 @@ spring.datasource.password=tu_contraseña
 
 # 🚀 Cómo Instalar y Ejecutar el Proyecto
 Clona el repositorio:
-bash
-Copy
-Edit
+bash 
 ```git clone https://github.com/tu-usuario/forohub.git```
 Navega al directorio del proyecto:
 bash
-Copy
-Edit
-cd forohub
+```cd forohub```
 Compila y ejecuta el proyecto:
 bash
-Copy
-Edit
-./mvnw spring-boot:run
+```./mvnw spring-boot:run```
 Accede a Swagger UI en:
-http://localhost:8080/swagger-ui.html 🖥️
+```http://localhost:8080/swagger-ui.html 🖥️```
 # 📚 Documentación de la API
 🔑 Autenticación
 Endpoint: /api/auth/login
