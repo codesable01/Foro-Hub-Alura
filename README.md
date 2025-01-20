@@ -107,17 +107,18 @@ api.security.secret=tu_clave_secreta
 # 🧩 Contribuciones
 ¡Contribuciones son bienvenidas! 🙌
 
-Haz un fork del proyecto.
-Crea una nueva rama:
-bash
-Copy
-Edit
-```git checkout -b feature/nueva-funcion```
-Realiza tus cambios y haz un commit:
-bash
-Copy
-Edit
-```git commit -m "Agrega nueva función"```
+1️⃣ Haz un fork del proyecto.
+2️⃣ Crea una nueva rama:
+
+```
+git checkout -b feature/nueva-funcion
+```
+3️⃣ Realiza tus cambios y haz un commit:
+
+```
+git commit -m "Agrega nueva función"
+```
+
 Envía un pull request.
 # 📞 Contacto
 ¿Tienes preguntas? Puedes contactarnos en:
