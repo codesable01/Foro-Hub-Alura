@@ -42,14 +42,14 @@ git clone https://github.com/tu-usuario/forohub.git
 ```
 Navega al directorio del proyecto:
 ```bash
-```cd forohub
+cd forohub
 ```
 Compila y ejecuta el proyecto:
 ```bash
-```./mvnw spring-boot:run
+./mvnw spring-boot:run
 ```
-```Accede a Swagger UI en:
-```http://localhost:8080/swagger-ui.html 🖥️
+```🖥️Accede a Swagger UI en:
+http://localhost:8080/swagger-ui.html 
 ```
 # 📚 Documentación de la API
 🔑 Autenticación
