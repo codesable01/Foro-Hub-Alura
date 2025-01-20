@@ -40,7 +40,7 @@ spring.datasource.password=tu_contraseña
 ```bash
 git clone https://github.com/tu-usuario/forohub.git
 ```
-Navega al directorio del proyecto:
+🖥️Navega al directorio del proyecto:
 ```bash
 cd forohub
 ```
@@ -48,11 +48,12 @@ Compila y ejecuta el proyecto:
 ```bash
 ./mvnw spring-boot:run
 ```
-```🖥️Accede a Swagger UI en:
+```Accede a Swagger UI en:
 http://localhost:8080/swagger-ui.html 
 ```
 # 📚 Documentación de la API
 🔑 Autenticación
+```
 Endpoint: /api/auth/login
 Método: POST
 Request Body:
@@ -67,9 +68,11 @@ Response:
 json
 Copy
 Edit
-{
+```
+```{
   "token": "eyJhbGciOiJIUzI1NiIsInR..."
 }
+```
 👤 Usuarios
 Crear Usuario:
 bash
