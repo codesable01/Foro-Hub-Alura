@@ -25,9 +25,12 @@ ForoHub es una plataforma completa para gestionar cursos, foros de discusión y 
 
 CREATE DATABASE forohub;
 3.🌐 Configurar las credenciales de base de datos en application.properties:
+```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/forohub
 spring.datasource.username=tu_usuario
 spring.datasource.password=tu_contraseña
+```
+
 
 
 # 🚀 Cómo Instalar y Ejecutar el Proyecto
@@ -35,7 +38,7 @@ Clona el repositorio:
 bash
 Copy
 Edit
-git clone https://github.com/tu-usuario/forohub.git
+```git clone https://github.com/tu-usuario/forohub.git```
 Navega al directorio del proyecto:
 bash
 Copy
