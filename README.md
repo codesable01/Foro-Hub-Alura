@@ -1,12 +1,11 @@
-🎉 ForoHub 📚
-
+#🎉 ForoHub 📚
 
 
 
 
 ForoHub es una plataforma completa para gestionar cursos, foros de discusión y usuarios. 🚀
 
-🛠️ Características Principales
+#🛠️ Características Principales
 
 🗂️ Gestión de cursos y perfiles.
 
@@ -28,7 +27,7 @@ MySQL como base de datos relacional 🗄️
 
 Swagger UI para la documentación interactiva de la API 🖥️
 
-📥 Requisitos Previos
+#📥 Requisitos Previos
 
 🔧 Tener instalado Java 17.
 
@@ -36,13 +35,13 @@ Swagger UI para la documentación interactiva de la API 🖥️
 
 CREATE DATABASE forohub;
 
-🌐 Configurar las credenciales de base de datos en application.properties:
+#🌐 Configurar las credenciales de base de datos en application.properties:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/forohub
 spring.datasource.username=tu_usuario
 spring.datasource.password=tu_contraseña
 
-🚀 Cómo Instalar y Ejecutar el Proyecto
+#🚀 Cómo Instalar y Ejecutar el Proyecto
 
 Clona el repositorio:
 
@@ -58,7 +57,7 @@ Compila y ejecuta el proyecto:
 
 Accede a Swagger UI en: http://localhost:8080/swagger-ui.html 🖥️
 
-📚 Documentación de la API
+#📚 Documentación de la API
 
 🔑 Autenticación
 
