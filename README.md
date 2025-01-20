@@ -34,9 +34,12 @@ spring.datasource.password=tu_contraseña
 
 
 # 🚀 Cómo Instalar y Ejecutar el Proyecto
-Clona el repositorio:
-bash 
-```git clone https://github.com/tu-usuario/forohub.git```
+
+### 1️⃣ Clona el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/forohub.git
+```
 Navega al directorio del proyecto:
 bash
 ```cd forohub```
