@@ -122,7 +122,7 @@ git commit -m "Agrega nueva función"
 Envía un pull request.
 # 📞 Contacto
 ¿Tienes preguntas? Puedes contactarnos en:
-📧 correo@forohub.com
+📧 linkedin.com/in/eiríkr-eiwa-1b026b324
 🌐 ForoHub GitHub
 
 🌟 ¡Gracias por usar ForoHub! 🌟
