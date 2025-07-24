@@ -127,11 +127,6 @@ Envía un pull request.
 
 🌟 ¡Gracias por usar ForoHub! 🌟
 
-Copy
-Edit
-
-¡Listo para pegarlo directamente en tu repositorio! 🎉
-
 
 
 
